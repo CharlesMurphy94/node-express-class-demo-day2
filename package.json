@@ -1,0 +1,25 @@
+{
+  "name": "node-express-class-demo-day2",
+  "version": "1.0.0",
+  "description": "A repo with topics covered in DevMountain's second day of Node lectures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesMurphy94/node-express-class-demo-day2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesMurphy94/node-express-class-demo-day2/issues"
+  },
+  "homepage": "https://github.com/CharlesMurphy94/node-express-class-demo-day2#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4"
+  }
+}
